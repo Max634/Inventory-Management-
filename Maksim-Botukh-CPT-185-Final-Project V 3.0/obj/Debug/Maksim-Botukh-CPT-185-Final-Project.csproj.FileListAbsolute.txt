@@ -1,0 +1,100 @@
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Form1.resources
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\alimaghamm\OneDrive - SCC\Desktop\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmInventory.resources
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmLogin.resources
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Loading_Screen.resources
+C:\Users\max\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Signup.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmInventory.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmLogin.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Loading_Screen.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Signup.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\Maksim-Botukh-CPT-185-Final-Project\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmInventory.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmLogin.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Loading_Screen.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Signup.resources
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\MBotukh\Downloads\Maksim-Botukh-CPT-185-Final-Project V 2.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.ResolveComReference.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.AboutBox.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Countdowntimer.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmInventory.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmLogin.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Loading_Screen.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Signup.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\FinalProjectDatabase.mdb
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe.config
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.AssemblyReference.cache
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.ResolveComReference.cache
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.AboutBox.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Countdowntimer.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmInventory.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.frmLogin.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Loading_Screen.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Properties.Resources.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim_Botukh_CPT_185_Final_Project.Signup.resources
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.GenerateResource.cache
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.exe
+C:\Users\max\OneDrive\Desktop\Maksim-Botukh-CPT-185-Final-Project V 3.0\obj\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Maksim-Botukh-CPT-185-Final-Project.pdb
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Final Project on Alimagham Template\Maksim-Botukh-CPT-185-Final-Project V 3.0\bin\Debug\AxInterop.WMPLib.dll
